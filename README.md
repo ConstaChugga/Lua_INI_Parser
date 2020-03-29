@@ -1,5 +1,7 @@
 # LIP - Lua INI Parser
 *Lua INI Parser* is a tiny Lua library allowing to handle *.ini* files.
+Originally made by Dynodzzo. This version allows you to read/write an INI file from/to a string (for situations where you need some other framework or engine to handle file manipulation rather than lua)
+Used in STVG 0.1.0.
 
 # Usage
 Add [LIP.lua](https://github.com/Dynodzzo/Lua_INI_Parser/blob/master/LIP.lua) file into your project folder.<br />
